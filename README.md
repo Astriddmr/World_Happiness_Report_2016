@@ -30,8 +30,11 @@ Skor Kebahagiaan dijelaskan oleh beberapa faktor berikut:
 1. Happiness Score dipengaruhi hubungan yang kuat oleh faktor Economy(GDP per Capita), Health (Life Expetancy) dan Family
 2. Negara-negara teratas dalam Happiness Score terutama terletak di wilayah Western Europe, sementara negara-negara di Sub-Saharan Africa memiliki Happiness Score yang lebih rendah.
 3. Berdasarkan data World Happiness 2016, negara yang paling banyak berada di wilayah Sub-Saharan Africa, tetapi wilayah tersebut memiliki skor kebahagiaan yang rendah. Kemungkinan rendahnya skor kebahagiaan di wilayah Sub-Saharan Africa dikarenakan :
-    ###1).  Tingkat penyakit yang tinggi, dikarenakan akses terbatas terhadap layanan yang berkualitas dan infrastruktur kesehatan yang buruk dapat menyebabkan peningkatan penyakit dan kematian yang berdampak negatif pada kesejahteraan masyarakat.
-    ###2). Cenderung memiliki ekonomi yang lemah dengan tingkat penghasilan per kapita yang rendah dan tingkat pengangguran yang tinggi sehingga ekonomi yang lemah dapat menyebabkan ketidakstabilan sosial dan ekonomi, meningkatkan ketidakpuasaan, dan mengurangi tingkat kebahagiaan masyarakat
-    ###3). Ketidakstabilan politik, konflik bersenjata, dan gangguan keamanan. Ketidakpastian politik dapat membatasi kebebasan individu dalam menjalani kehidupan sehari-hari dan merasa aman.
+
+    1).  Tingkat penyakit yang tinggi, dikarenakan akses terbatas terhadap layanan yang berkualitas dan infrastruktur kesehatan yang buruk dapat menyebabkan peningkatan penyakit dan kematian yang berdampak negatif pada kesejahteraan masyarakat.
+
+    2). Cenderung memiliki ekonomi yang lemah dengan tingkat penghasilan per kapita yang rendah dan tingkat pengangguran yang tinggi sehingga ekonomi yang lemah dapat menyebabkan ketidakstabilan sosial dan ekonomi, meningkatkan ketidakpuasaan, dan mengurangi tingkat kebahagiaan masyarakat
+
+    3). Ketidakstabilan politik, konflik bersenjata, dan gangguan keamanan. Ketidakpastian politik dapat membatasi kebebasan individu dalam menjalani kehidupan sehari-hari dan merasa aman.
 
 Kesimpulannya, faktor-faktor seperti kondisi ekonomi, keluarga, kesehatan, kebebasan, dan kepercayaan terhadap pemerintah merupakan beberapa faktor kunci yang berkontribusi pada tingkat kebahagiaan suatu negara.
